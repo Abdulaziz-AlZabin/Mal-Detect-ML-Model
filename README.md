@@ -1,2 +1,2 @@
 # Mal-Detect-ML-Model
-This is a Machine Learning model to detect 
+This is a Machine Learning model to detect Malwares from their PE headers...
